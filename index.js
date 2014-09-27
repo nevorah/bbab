@@ -1,4 +1,5 @@
 function showhow(show) {
+    
     //get a DIV howto
     var howto = document.getElementById("howto");
 

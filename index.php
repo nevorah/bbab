@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-<meta property="og:url" content="http://env-6461067.jelasticlw.com.br/beepbeepandbeep/?key=<?=$_GET["key"]?>">
-<meta property="og:title" content="Beep beep And Beep Challenge!">
-<meta property="og:type" content="Game">
-<meta property="fb:admins" content="137348699692865"/>
-<meta property="og:image" content="http://env-6461067.jelasticlw.com.br/beepbeepandbeep/logo287.png">
-<meta property="og:description" content="The game to trainning memory with your friend. Fast and easy!">
-<meta name="author" content="Tiago Neves">
-<!-- 
+    <meta property="og:url" content="http://env-6461067.jelasticlw.com.br/beepbeepandbeep/?key=<?=$_GET["key"]?>">
+    <meta property="og:title" content="Beep beep And Beep Challenge!">
+    <meta property="og:type" content="Game">
+    <meta property="fb:admins" content="137348699692865"/>
+    <meta property="og:image" content="http://env-6461067.jelasticlw.com.br/beepbeepandbeep/logo287.png">
+    <meta property="og:description" content="The game to trainning memory with your friend. Fast and easy!">
+    <meta name="author" content="Tiago Neves">
+    <!-- 
 This game was made for final project a Harvard Course CS50
 //-->
+    
         <title>beepbeepandbeep</title>
         <link href="index.css" rel="stylesheet" type="text/css" />
         <script src="index.js"></script>
